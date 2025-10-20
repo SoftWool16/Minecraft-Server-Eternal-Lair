@@ -4,6 +4,9 @@
 # Но не игнорировать эти папки и их содержимое
 !/mods/
 !/saves/World/
+!/README.md
+!/INSTRUCTION.md
+!/imgResdme/
 
 # Не игнорировать сам .gitignore
 !.gitignore
