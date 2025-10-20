@@ -1,4 +1,4 @@
-![Server Avatar](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/img/avatar.png)
+![Server Avatar](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/imgReadme/avatar.png)
 
 # **Eternal Lair** - сервер Minecraft
 
@@ -22,4 +22,4 @@
 - [Группа MAX](https://max.ru/join/tveZ-sB1fNRq1VRcRGyNU4CZihjUYeTU9A1QFVRq9qI)
 ---
 
-![Фото со старта](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/img/start.png)
+![Фото со старта](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/imgReadme/start.png)
