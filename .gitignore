@@ -3,10 +3,13 @@
 
 # �� �� ������������ ��� ����� � �� ����������
 !/mods/
+!/mods/**
 !/saves/World/
+!/saves/World/**
 !/README.md
 !/INSTRUCTION.md
 !/imgReadme/
+!/imgReadme/**
 
 # �� ������������ ��� .gitignore
 !.gitignore
