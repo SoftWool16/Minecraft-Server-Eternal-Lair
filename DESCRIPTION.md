@@ -57,3 +57,20 @@
 + + libraryferret-fabric-1.20.1-4.0.0
 + bettercombat-fabric-1.8.6+1.20.1 - техника боя
 + BetterAdvancements-Fabric-1.20.1-0.4.2.25 - улучшеные достижения
+---
+### 5 пак
++ createaddition-fabric+1.20.1-1.2.6 - электричество
++ EnchantmentDescriptions-Fabric-1.20.1-17.1.19 - описания зачарования
++ + Bookshelf-Fabric-1.20.1-20.2.13 
++ majruszs-enchantments-fabric-1.20.1-1.10.8 - новые чары
++ + majrusz-library-fabric-1.20.1-7.0.8
++ max-enchant-x-1.3-1.20.X-fabric - повышает лвл чар
++ DisenchantmentEditTable-Fabric-1.20-1.1.2 - стол разочарования 
++ waystones-fabric-1.20.1-14.1.17 - камни тп
++ + balm-fabric-1.20.1-7.3.37
++ craftable-potion-combinations-1.1.1+1.20.1 - залья
++ Stackable+Potions-fabric-1.20.1-1.0.0 - по 16 зелий
++ extraalchemy-fabric-1.20.1-1.10.0 - еще зелья
++ immersive_aircraft-1.4.0+1.20.1-fabric - самолеты
++ litematica-fabric-1.20.1-0.15.3 - схема
++ 
