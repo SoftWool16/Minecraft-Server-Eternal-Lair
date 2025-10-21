@@ -20,6 +20,7 @@
 # Наши контакты: 
 - [Группа TG](https://t.me/+ghZEINJge5M5YWMy)
 - [Группа MAX](https://max.ru/join/tveZ-sB1fNRq1VRcRGyNU4CZihjUYeTU9A1QFVRq9qI)
+- [Сервер Discord](https://t.me/+ghZEINJge5M5YWMy)
 ---
 
 ![Фото со старта](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/imgReadme/start.png)
