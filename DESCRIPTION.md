@@ -73,4 +73,21 @@
 + extraalchemy-fabric-1.20.1-1.10.0 - еще зелья
 + immersive_aircraft-1.4.0+1.20.1-fabric - самолеты
 + litematica-fabric-1.20.1-0.15.3 - схема
-+ 
+---
+### 6 пак
++ ATi Structures V1.4.3 (1.20+) - данжи
++ Explorify v1.6.4 f15-88.mod - данжи
++ thenetherdungeons-0.2-1.20.1-1.20.4 - данжи
++ bellsandwhistles-0.4.5+1.20.1-FABRIC - криэйт новые блоки
++ comforts-fabric-6.4.0+1.20.1 - спальные мешки 
++ CraftableTotemOfUndying-1.20.1-Fabric - крафт тотема
++ create_rustic_structures-1.0.0-fabric-1.20.1 - структуры криэйт
++ create_structures_arise-156.29.28-fabric-1.20.1 - структуры криэйт
++ create-structures-0.1.1-1.20.1-FABRIC - структуры криэйт
++ durabilitytooltip-1.1.6-fabric-mc1.20.4 - информауия об инструментах
++ + supermartijn642configlib-1.1.8a-fabric-mc1.20
++ elytraslot-fabric-6.4.4+1.20.1 - слот для элитр
++ EMIProfessions-fabric-1.20.1-1.0.3 поиск по профессии в крафтах 
++ torohealth-1.20.1-fabric-1 - показывает урон от удара
++ UndeadNights-1.3.2-Fabric-mc1.20.1 - орда зомбей
++ villager_warship-1.0.0 fabric 1.20.1 - корабль носатых
