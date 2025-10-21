@@ -36,3 +36,24 @@
 + WI-Zoom-1.6-MC1.20.1 - приближение
 + XaerosWorldMap_1.39.12_Fabric_1.20 - карта мира
 + + Xaeros_Minimap_25.2.10_Fabric_1.20 - миникарта
+---
+### 4 пак
++ YungsApi-1.20-Fabric-4.0.6 - улучшение структур
++ + + lootintegrations_yungs-1.4 - лут
++ + + lootintegrations-fabric-1.20.1-4.7 - лут
++ + + cupboard-fabric-1.20.1-2.7 - лут
++ + YungsBetterDesertTemples-1.20-Fabric-3.0.3
++ + YungsBetterDungeons-1.20-Fabric-4.0.4
++ + YungsBetterEndIsland-1.20-Fabric-2.0.6
++ + YungsBetterJungleTemples-1.20-Fabric-2.0.5
++ + YungsBetterMineshafts-1.20-Fabric-4.0.4
++ + YungsBetterNetherFortresses-1.20-Fabric-2.0.6
++ + YungsBetterOceanMonuments-1.20-Fabric-3.0.4
++ + YungsBetterStrongholds-1.20-Fabric-4.0.3
++ + YungsBetterWitchHuts-1.20-Fabric-3.0.3
++ create-better-villagers-1.2.9-Fabric-1.20.1 - деревни с криэйт
++ + Underground_Village-1.5.2
++ bettervillage-fabric-1.20.1-3.3.1 - деревни увеличеные
++ + libraryferret-fabric-1.20.1-4.0.0
++ bettercombat-fabric-1.8.6+1.20.1 - техника боя
++ BetterAdvancements-Fabric-1.20.1-0.4.2.25 - улучшеные достижения
