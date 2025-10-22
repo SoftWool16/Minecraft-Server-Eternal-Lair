@@ -129,3 +129,12 @@
 + morevanillapotions-FABRIC-1.20.1-1.0 - зелья
 + + potions-description-1.0 - описания зелий
 + multitools-fabric-1.20.1-2.0.1 - мультитул
+---
+### 9 пак
++ crimsonstevemutantmobs-1.1.2-forge-1.20.1 - мутанты
++ Moonstruck Phantasm 1.0.4 1.20.1 Fabric  Quilt - мутанты
++ MutantsZombies-1.3.0-Fabric-mc1.20.1 - мутанты
++ weeping_angels-46.1.5-fabric - статуи
++ jungle_treehouse_village-1.0.0 fabric 1.20.1 - данж деревенский
++ villager_butcher_house-1.0.0 fabric 1.20.1
++ villager_farmer_house-1.0.0 fabric 1.20.1
