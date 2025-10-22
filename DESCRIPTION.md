@@ -91,3 +91,18 @@
 + torohealth-1.20.1-fabric-1 - показывает урон от удара
 + UndeadNights-1.3.2-Fabric-mc1.20.1 - орда зомбей
 + villager_warship-1.0.0 fabric 1.20.1 - корабль носатых
+---
+### 7 пак
++ indium-1.0.36+mc1.20.1 - create оптимизация
++ iris-flywheel-compat-fabric1.20.1+1.1.4- create оптимизация
++ + iris-1.7.6+mc1.20.1
++ dungeons-and-taverns-3.0.3.f[Fabric] - данжи
++ appleskin-fabric-mc1.20.1-2.5.1 - насыщение
++ InventorySorter-1.9.0-1.20 - сортировка
++ Jade-1.20-Fabric-11.13.1 - инфо о блоках
++ MouseTweaks-fabric-mc1.20-2.26 - клики
++ brutalbosses-fabric-1.20.1-8.4 - забафаные мобы
++ giantspawn-1.20.1-5.3 - гиганты
++ + collective-1.20.1-8.7 
++ CosmeticArmor-1.20-1.6.0 - визуальная броня
++ Craftable+Spawner+and+Spawn+Eggs+(1.20.1+fabric+H+version) - визуальная броня
