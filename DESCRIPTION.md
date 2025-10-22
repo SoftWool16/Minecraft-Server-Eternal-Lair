@@ -106,3 +106,20 @@
 + + collective-1.20.1-8.7 
 + CosmeticArmor-1.20-1.6.0 - визуальная броня
 + Craftable+Spawner+and+Spawn+Eggs+(1.20.1+fabric+H+version) - визуальная броня
+---
+### 8 пак
++ shuffle-fabric-9.0.0+1.20.1 - рандом блоков
++ + ash_api-fabric-3.0.2+1.20.1
++ chunkloaders-1.2.9-fabric-mc1.20.1 - загрузчик чанков
++ Clumps-fabric-1.20.1-12.0.0.4 - объединение опыта
++ Icarus-Fabric-2.12.0 - крылья
++ + sparkweave-0.8.8
++ + ommon-networking-fabric-1.0.5-1.20.1
++ + resourcefulconfig-fabric-1.20.1-2.1.3
++ createbigcannons-5.8.2-mc.1.20.1-fabric - пушки
++ createcontraptionterminals-fabric-1.20-1.1.0 - терминал  
++ + toms_storage_fabric-1.20-1.7.1
++ man_of_many_planes-0.2.0+1.20.1-fabric - больше самолетов
++ rechiseled-1.1.6-fabric-mc1.20 - блоки
++ + supermartijn642corelib-1.1.18a-fabric-mc1.20.1
++ 
