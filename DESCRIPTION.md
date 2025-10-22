@@ -16,8 +16,8 @@
 + create-fabric-0.5.1-j-build.1631+mc1.20.1 - механизмы
 + + create_jetpack-fabric-4.3.0 - джетпак
 + + create-food-1.20.1-1.1.11-fabric - еда
-+ + createutilities-0.3.0+1.20.1 - энд двигатели и вещи
 + + + FarmersDelight-1.20.1-2.4.0+refabricated - урожай
++ + createutilities-0.3.0+1.20.1 - энд двигатели и вещи
 + emi-1.1.22+1.20.1+fabric - крафты
 + + EMI Create Schematics [1.0.1 Fabric 1.20.1] - криэйт крафты 
 ---
@@ -69,7 +69,7 @@
 + waystones-fabric-1.20.1-14.1.17 - камни тп
 + + balm-fabric-1.20.1-7.3.37
 + craftable-potion-combinations-1.1.1+1.20.1 - залья
-+ Stackable+Potions-fabric-1.20.1-1.0.0 - по 16 зелий
+            + Stackable+Potions-fabric-1.20.1-1.0.0 - по 16 зелий
 + extraalchemy-fabric-1.20.1-1.10.0 - еще зелья
 + immersive_aircraft-1.4.0+1.20.1-fabric - самолеты
 + litematica-fabric-1.20.1-0.15.3 - схема
@@ -122,4 +122,10 @@
 + man_of_many_planes-0.2.0+1.20.1-fabric - больше самолетов
 + rechiseled-1.1.6-fabric-mc1.20 - блоки
 + + supermartijn642corelib-1.1.18a-fabric-mc1.20.1
-+ 
+---
+### 9 пак
++ Better Cave Dweller-1.20.1-white-eyes-fabric
++ + geckolib-fabric-1.20.1-4.8.2
++ morevanillapotions-FABRIC-1.20.1-1.0 - зелья
++ + potions-description-1.0 - описания зелий
++ multitools-fabric-1.20.1-2.0.1 - мультитул
