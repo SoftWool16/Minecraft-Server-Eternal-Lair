@@ -13,3 +13,12 @@
 * createdeco-2.0.3-1.20.1-forge - новые блоки
 * * ritchiesprojectilelib-2.1.1-mc.1.20.1-forge - библиотека блоков
 * bellsandwhistles-0.4.5-1.20.x-Create6.0+ - поезда
+## 3 пак 
+* create_jetpack-forge-4.4.6 - реактвный ранец
+* * kotlinforforge-4.12.0-all - правка передвижения
+* createcontraptionterminals-1.20-1.2.0 - терминалы
+* * toms_storage-1.20-1.7.1 - расширение инвенратей
+* create-food-1.20.1-1.1.12-forge - еда из create
+* * FarmersDelight-1.20.1-1.2.9 - новая еда и  культуры
+* createutilities-0.3.2+1.20.1 - эндеритовый двигатель
+* CreateNumismatics-1.0.15+forge-mc1.20.1 - покпка продажа вещей
