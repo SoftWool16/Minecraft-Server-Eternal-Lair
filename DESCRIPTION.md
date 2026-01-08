@@ -27,3 +27,56 @@
 * * createtaczauto-1.5.1-forge-1.20.1 - автоматическое создание патронов в create 
 * emi-1.1.22+1.20.1+forge - информация о крафтах
 * * emi_create_schematics-1.0.4 - продуманая схеманика с информацей о крафтах 
+### 5 пак
+
+* supermartijn642configlib-1.1.8-forge-mc1.20
+* appleskin-forge-mc1.20.1-2.5.1 - показывает еду
+* artifacts-forge-9.5.16 - артефайты
+* BetterPingDisplay-1.20.1-1.1 - улучшенный пинг дисплей
+* emi_enchanting-0.1.2+1.20.1+forge - инфо о зачарах 
+* emi_ores-1.2+1.20.1+forge - инфо о рудах
+* MouseTweaks-forge-mc1.20.1-2.25.1 - улучшение управнеия мыши
+* carryon-forge-1.20.1-2.1.2.7 - подбирать вещи
+* cosmeticarmorreworked-1.20.1-v1a -???- косметическия броня и слоты артифактов
+* DisenchantmentEditTable-1.20-1.1.2 - стол разочарования
+* * architectury-9.2.14-forge
+* * Bookshelf-Forge-1.20.1-20.2.13
+* emiffect-forge-1.1.2+mc1.20.1 - инфо о предметах
+* EMIProfessions-forge-1.20.1-1.0.4 - инфо о профессиях
+* emitrades-forge-1.2.1+mc1.20.1 - инфо о торгах
+* EnchantmentDescriptions-Forge-1.20.1-17.1.20 - описание чар
+* inventorysorter-1.20.1-23.1.9 - сортировка инвенторя
+* Jade-1.20.1-Forge-11.13.2 - описание куда смотришь
+* MaxEnchantX-1.20.X-1.3-Forge - повышение зачарования до 10
+* ToroHealth-Unofficial-Forge-1.20.1-1.0.0 - показывает урон при ударе
+* elytraslot-forge-6.4.4+1.20.1 слот для элитр
+* * caelus-forge-3.2.0+1.20.1
+* * curios-forge-5.14.1+1.20.1
+* durabilitytooltip-1.1.6-forge-mc1.20 - описание инструментов
+* emi_loot-0.7.9%2B1.20.1%2Bforge - инфо о луте
+* ShulkerTooltip-1.13.1 - показывает инфо в шалкерах
+* cloth-config-11.1.136-forge
+* balm-forge-1.20.1-7.3.38-all
+* comforts-forge-6.4.0+1.20.1 - спальные мешки
+* Stackable+Potions-forge-1.20.1-1.0.0 - зелья по 16
+* MergeEnchantments-FORGE-1.20.[0-4]-v4.3 - совместить несовмещаемые чары
+* MoreEnchantments_MC_1.20.1_Vers.1.4.3 - больше зачарований
+* * majruszs-enchantments-forge-1.20.1-1.10.8
+* * collective-1.20.1-8.13
+* morevanillapotions-FORGE-1.20.1-1.9.1 - больше зелий 
+* potionsmaster-1.20.1-47.1.70-0.6.0 - еще больше зелий 
+* bettercombat-forge-1.9.0%2B1.20.1 - лусшаа техника боя
+* * player-animation-lib-forge-1.0.2-rc1+1.20
+* smallernetherportals-1.20.1-3.9 - микро порталы
+* waystones-forge-1.20.1-14.1.17 - камни тп 
+* BetterAdvancements-Forge-1.20.1-0.4.2.25 - улучшенная доска достижений 
+* advancednetherite-forge-2.1.3-1.20.1 - алмазно незеритовая броня
+* WI-Zoom-1.5-MC1.20.1-Forge - приближение
+* gravestone-forge-1.20.1-1.0.35 - могилки при смерти 
+* * athena-forge-1.20.1-3.1.2
+* * resourcefullib-forge-1.20.1-2.1.29
+* chipped-forge-1.20.1-3.0.7 - больше блоков
+*  * supermartijn642corelib-1.1.19-forge-mc1.20.1
+*  * majrusz-library-forge-1.20.1-7.0.8
+* sophisticatedbackpacks-1.20.1-3.24.18.1488 - рюкзаки
+* * sophisticatedcore-1.20.1-1.2.117.1347 - ядро
