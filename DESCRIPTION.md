@@ -80,3 +80,38 @@
 *  * majrusz-library-forge-1.20.1-7.0.8
 * sophisticatedbackpacks-1.20.1-3.24.18.1488 - рюкзаки
 * * sophisticatedcore-1.20.1-1.2.117.1347 - ядро
+## 6 пак
+* cave_dweller-1.20.1-1.6.4 - монстры
+* * geckolib-forge-1.20.1-4.8.2
+* ShyGuy-forge-1.20.1-3.6
+* InfiniteIkea-forge-1.20.1-1.0.1
+* PlagueDoctor-forge-1.20.1-1.9
+* GateGuardian-forge-1.20.1-1.0
+* HardToDestroyReptile-forge-1.20.1-2.1
+* PossessiveMask-forge-1.20.1-1.8
+* Sculpture-forge-1.20.1-2.5
+* TheOldMan-forge-1.20.1-2.0.3
+* Anatashesha-forge-1.20.1-1.1
+* MalO-forge-1.20.1-1.0
+* MilitaristicPlayDoh-forge-1.20.1-1.0
+* TheYuleMan-forge-1.20.1-1.0
+* WithManyVoices-forge-1.20.1-1.9
+* Panacea-forge-1.20.1-1.2
+* RedSeaObject-forge-1.20.1-1.7
+* ThePrototype-forge-1.20.1-1.0
+* TheStairwell-forge-1.20.1-1.7
+* TickleMonster-forge-1.20.1-1.6
+* CuckooClock-forge-1.20.1-2.4
+* MostOfAnAllosaurus-forge-1.20.1-1.1
+* EyesInTheDark-forge-1.20.1-1.6
+* ZombiePlague-forge-1.20.1-1.0.2
+* BurningMan-forge-1.20.1-1.4
+* HeartOfDarkness-forge-1.20.1-1.0
+* HumansRefuted-forge-1.20.1-1.8
+* StarvingSkeleton-forge-1.20.1-1.5
+* WhatIsLove-forge-1.20.1-1.0
+* OrcadianHorseman-forge-1.20.1-1.0
+* PeripheralJumper-forge-1.20.1-1.5.1
+
+
+
