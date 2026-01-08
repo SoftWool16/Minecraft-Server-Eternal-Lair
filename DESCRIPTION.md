@@ -1,0 +1,15 @@
+# Моды
+---
+## 1 пак
+* preview_OptiFine_1.20.1_HD_U_I6_pre6 - базовый мод
+* tl_skin_cape_forge_1.20_1.20.1-1.32 - базовый мод
+* xaerominimap-forge-1.20.1-25.3.5 - миникарта
+* xaeroworldmap-forge-1.20.1-1.40.6 - карта мира
+## 2 пак
+* create-1.20.1-6.0.8 - мод на механизмы 
+* copycats-3.0.4%2Bmc.1.20.1-forge - заполняемые блоки
+* createaddition-1.20.1-1.3.3 - электричество
+* createbigcannons-5.10.1-mc.1.20.1-forge - пушки
+* createdeco-2.0.3-1.20.1-forge - новые блоки
+* * ritchiesprojectilelib-2.1.1-mc.1.20.1-forge - библиотека блоков
+* bellsandwhistles-0.4.5-1.20.x-Create6.0+ - поезда
