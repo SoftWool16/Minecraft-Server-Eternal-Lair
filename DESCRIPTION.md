@@ -112,6 +112,31 @@
 * WhatIsLove-forge-1.20.1-1.0
 * OrcadianHorseman-forge-1.20.1-1.0
 * PeripheralJumper-forge-1.20.1-1.5.1
+## 7 пак
+* удалены
+* * CuckooClock-forge-1.20.1-2.4  
+* * HumansRefuted-forge-1.20.1-1.8
+* * MilitaristicPlayDoh-forge-1.20.1-1.0
+* * PeripheralJumper-forge-1.20.1-1.5.1
+* * RedSeaObject-forge-1.20.1-1.7
+* * Sculpture-forge-1.20.1-2.5
+* * TheOldMan-forge-1.20.1-2.0.3
+* * TheYuleMan-forge-1.20.1-1.0
+* * ZombiePlague-forge-1.20.1-1.0.2
+* modernfix-forge-5.25.2%2Bmc1.20.1 - оптимизация
+* * ferritecore-6.0.1-forge
+* origins-forge-1.20.1-1.10.0.9-all - рассы
+* Icarus-Forge-2.13.1 - крылья
+* * common-networking-forge-1.0.5-1.20.1
+*  * resourcefulconfig-forge-1.20.1-2.1.3
+*  Craftable+Spawner+and+Spawn+Eggs+(1.20.1+H+version) - спавнера и я йца
+*  effortlessbuilding-1.20.1-3.10 - строительство фигурами
+*  amendments-1.20-2.2.3 - улучшенная логика
+*  * moonlight-1.20-2.16.19-forge
+*  realmrpg_skeletons-1.1.0-forge-1.20.1 - трупы
+
+
+
 
 
 
