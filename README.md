@@ -14,7 +14,7 @@
 - Обновление мира с сохранением баз
 
 
-[Инструкция по установке](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/INSTRUCTION.md)
+[Инструкция по установке](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/newForge/INSTRUCTION.md)
 
 ---
 # Наши контакты: 

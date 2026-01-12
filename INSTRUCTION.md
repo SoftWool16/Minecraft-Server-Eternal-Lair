@@ -1,6 +1,6 @@
 #### 1. Если есть git на компьютере можете использовать команду git clone
 ```git Bush
-git clone -в разработке-
+git clone https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/tree/newForge
 ```
 (иначе можно скачать папку .zip)
  #### 2. Создать версию на Forge 1.20.1 в TLauncher
@@ -9,6 +9,7 @@ git clone -в разработке-
  * папка mods cо всеми необходимыми модами
  * папка imgReadme c картинками 
  * README.md, INSTRUCTION.md, .gitignore - рабочие файлы
+ * папка scripts для кастомных крафтов
  
 (иначе можно скопировать только папку mods)
 #### 4. Подключитесь в локальную сеть в RadminVPN 
