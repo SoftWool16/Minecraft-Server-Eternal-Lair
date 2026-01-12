@@ -11,6 +11,8 @@
 !/DESCRIPTION.md
 !/imgReadme/
 !/imgReadme/**
+!/scripts/
+!/scripts/**
 
 # �� ������������ ��� .gitignore
 !.gitignore

@@ -142,7 +142,11 @@
 *  * Searchables-forge-1.20.1-1.0.3 - поиск по назначению клавиш 
 *   * ash_api-forge-3.0.2+1.20.1
 * FastLeafDecay-32 - ускореное выпадение личтвы
-
+## 9 пак 
+* immersive_aircraft-1.4.0+1.20.1-forge - самсолеты
+* * man_of_many_planes-0.2.0+1.20.1-forge - самолеты еще
+* simpleplanes-1.20.1-5.3.3 - самолеты
+* CraftTweaker-forge-1.20.1-14.0.59 - изменение крафта
 
 
 
