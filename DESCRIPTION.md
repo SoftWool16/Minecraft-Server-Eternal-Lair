@@ -134,7 +134,14 @@
 *  amendments-1.20-2.2.3 - улучшенная логика
 *  * moonlight-1.20-2.16.19-forge
 *  realmrpg_skeletons-1.1.0-forge-1.20.1 - трупы
-
+## 8 пак
+* worldedit-mod-7.2.15 - креативное изменение мира
+* sound-physics-remastered-forge-1.20.1-1.5.1 - улучшенныве вуки 
+* shuffle-forge-9.0.0+1.20.1 - пекремешка блоков
+* Controlling-forge-1.20.1-12.0.2 - поиск по назначению клавиш
+*  * Searchables-forge-1.20.1-1.0.3 - поиск по назначению клавиш 
+*   * ash_api-forge-3.0.2+1.20.1
+* FastLeafDecay-32 - ускореное выпадение личтвы
 
 
 
