@@ -13,6 +13,6 @@
 !/imgReadme/**
 !/scripts/
 !/scripts/**
-
+!/config/jei/blacklist.cfg
 # �� ������������ ��� .gitignore
 !.gitignore

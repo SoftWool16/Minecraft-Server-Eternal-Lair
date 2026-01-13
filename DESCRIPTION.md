@@ -176,6 +176,13 @@
 * * craftingstation-1.20.1-1.2.3
 * * morejeiinfo-forge-1.20.1-1.0.1
 * * JEI%20Ores-1.20.1-1.0.1
+## 11 пак
+* удалены
+* * alexsmobs-1.22.9 - мирные мобы
+* * * citadel-2.6.2-1.20.1
+---
+* spark-1.10.53-forge - тест игровог процесса
+*  memoryleakfix-forge-1.17+-1.1.4 - притив утечки памяти
 
 
 
