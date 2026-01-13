@@ -122,7 +122,8 @@
 * * Sculpture-forge-1.20.1-2.5
 * * TheOldMan-forge-1.20.1-2.0.3
 * * TheYuleMan-forge-1.20.1-1.0
-* * ZombiePlague-forge-1.20.1-1.0.2
+* * ZombiePlague-forge-1.20.1-1.0.2  
+---
 * modernfix-forge-5.25.2%2Bmc1.20.1 - оптимизация
 * * ferritecore-6.0.1-forge
 * origins-forge-1.20.1-1.10.0.9-all - рассы
@@ -147,6 +148,34 @@
 * * man_of_many_planes-0.2.0+1.20.1-forge - самолеты еще
 * simpleplanes-1.20.1-5.3.3 - самолеты
 * CraftTweaker-forge-1.20.1-14.0.59 - изменение крафта
+## 10 пак
+* удалены
+* * emi_loot-0.7.9%2B1.20.1%2Bforge - инфо о луте
+* * emiffect-forge-1.1.2+mc1.20.1 - инфо о предметах
+* * EMIProfessions-forge-1.20.1-1.0.4 - инфо о профессиях
+* * emitrades-forge-1.2.1+mc1.20.1 - инфо о торгах
+* * emi_enchanting-0.1.2+1.20.1+forge - инфо о зачарах 
+* * emi_ores-1.2+1.20.1+forge - инфо о рудах
+* * emi-1.1.22+1.20.1+forge - информация о крафтах
+* * emi_create_schematics-1.0.4 - продуманая схеманика с информацей о крафтах 
+---
+* create-stuff-additions1.20.1_v2.1.0 - огнемет
+* tatimod-0.0.1-1.20.1 - слоты
+* * more_curios_slots-1.3
+*  * CurioSlot
+* create_enchantment_industry-1.3.3-for-create-6.0.6 - зачарованые криэйтовские вещи
+* giantspawn-1.20.1-5.3 - гиганты
+* ironchest-1.20.1-14.4.4 - прокачка сундуков
+* Clumps-forge-1.20.1-12.0.0.4 - опыт собирается лучше
+* alexsmobs-1.22.9 - мирные мобы
+* * citadel-2.6.2-1.20.1
+* jei-1.20.1-forge-15.20.0.129 - ионфо о крафтах
+* * ftb-essentials-forge-2001.2.3
+* * ftb-library-forge-2001.2.12
+* * jeiintegration_1.20.1-10.0.0
+* * craftingstation-1.20.1-1.2.3
+* * morejeiinfo-forge-1.20.1-1.0.1
+* * JEI%20Ores-1.20.1-1.0.1
 
 
 
