@@ -8,5 +8,8 @@ craftingTable.addShaped("minecraft.crafting_table", <item:minecraft:crafting_tab
 [<tag:items:minecraft:planks>, <tag:items:minecraft:planks>, <tag:items:minecraft:planks>]]);
 
 
-
+craftingTable.addShaped("minecraft.crafting_table_nether", <item:minecraft:crafting_table>,
+[ 
+[<item:minecraft:netherite_scrap> | <item:minecraft:ancient_debris>, <item:minecraft:netherite_scrap> | <item:minecraft:ancient_debris>],
+[<item:minecraft:gilded_blackstone>, <item:minecraft:gilded_blackstone>]]);
 //<item:create:potato_cannon>
