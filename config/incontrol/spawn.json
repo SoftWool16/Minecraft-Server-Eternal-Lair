@@ -1,0 +1,42 @@
+[
+    {
+    "spawn": [
+      {
+        "comment": "Общий лимит 100 злых мобов во всем мире",
+        "mob": "monster",
+        "type": "monster",
+        "maxcount": {
+          "amount": 100,
+          "global": true
+        },
+        "result": "deny"
+      },
+      
+      {
+        "comment": "Не спавнить ближе 25 блоков от игрока",
+        "mob": "monster",
+        "type": "monster",
+        "mindist": 25,
+        "result": "deny"
+      },
+      {
+        "comment": "Не спавнить дальше 128 блоков от игрока",
+        "mob": "monster", 
+        "type": "monster",
+        "maxdist": 128,
+        "result": "deny"
+      },
+      
+      {
+        "comment": "Не более 10 злых мобов в одном чанке",
+        "mob": "monster",
+        "type": "monster",
+        "maxcount": {
+          "amount": 10,
+          "perchunk": true
+        },
+        "result": "deny"
+      }
+    ]
+  }
+]

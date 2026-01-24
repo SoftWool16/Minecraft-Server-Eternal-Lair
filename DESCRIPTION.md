@@ -219,3 +219,7 @@
 * * StarvingSkeleton-forge-1.20.1-1.5
 * * WhatIsLove-forge-1.20.1-1.0
 * * OrcadianHorseman-forge-1.20.1-1.0
+
+
+
+/config/incontrol/spawn.json - ограничения спавна

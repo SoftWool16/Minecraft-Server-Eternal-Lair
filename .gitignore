@@ -4,8 +4,6 @@
 # �� �� ������������ ��� ����� � �� ����������
 !/mods/
 !/mods/**
-!/saves/World/
-!/saves/World/**
 !/README.md
 !/INSTRUCTION.md
 !/DESCRIPTION.md
@@ -13,6 +11,11 @@
 !/imgReadme/**
 !/scripts/
 !/scripts/**
+!/config/
+!/config/incontrol/
+!/config/incontrol/**
+!/config/jei/
 !/config/jei/blacklist.cfg
+
 # �� ������������ ��� .gitignore
 !.gitignore
