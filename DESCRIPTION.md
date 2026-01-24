@@ -199,27 +199,12 @@
 * 
 ## 15 пак
 * удалены (все SCP)
-* * ShyGuy-forge-1.20.1-3.6
-* * PlagueDoctor-forge-1.20.1-1.9
-* * GateGuardian-forge-1.20.1-1.0
-* * HardToDestroyReptile-forge-1.20.1-2.1
-* * PossessiveMask-forge-1.20.1-1.8
-* * Anatashesha-forge-1.20.1-1.1
-* * MalO-forge-1.20.1-1.0
-* * WithManyVoices-forge-1.20.1-1.9
-* * Panacea-forge-1.20.1-1.2
-* * ThePrototype-forge-1.20.1-1.0
-* * TheStairwell-forge-1.20.1-1.7
-* * TickleMonster-forge-1.20.1-1.6
-* * MostOfAnAllosaurus-forge-1.20.1-1.1
-* * EyesInTheDark-forge-1.20.1-1.6
-* * ZombiePlague-forge-1.20.1-1.0.2
-* * BurningMan-forge-1.20.1-1.4
-* * HeartOfDarkness-forge-1.20.1-1.0
-* * StarvingSkeleton-forge-1.20.1-1.5
-* * WhatIsLove-forge-1.20.1-1.0
-* * OrcadianHorseman-forge-1.20.1-1.0
 
+* * PlagueDoctor-forge-1.20.1-1.9
+* * TickleMonster-forge-1.20.1-1.6
+* * WhatIsLove-forge-1.20.1-1.0
+
+* incontrol-1.20-9.4.6 - контроль мира (в частности спавна мобов)
 
 
 /config/incontrol/spawn.json - ограничения спавна
