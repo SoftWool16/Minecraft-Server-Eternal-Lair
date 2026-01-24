@@ -1,42 +1,14 @@
+
 [
     {
-    "spawn": [
-      {
-        "comment": "Общий лимит 100 злых мобов во всем мире",
-        "mob": "monster",
-        "type": "monster",
-        "maxcount": {
-          "amount": 100,
-          "global": true
-        },
-        "result": "deny"
-      },
-      
-      {
-        "comment": "Не спавнить ближе 25 блоков от игрока",
-        "mob": "monster",
-        "type": "monster",
-        "mindist": 25,
-        "result": "deny"
-      },
-      {
-        "comment": "Не спавнить дальше 128 блоков от игрока",
-        "mob": "monster", 
-        "type": "monster",
-        "maxdist": 128,
-        "result": "deny"
-      },
-      
-      {
-        "comment": "Не более 10 злых мобов в одном чанке",
-        "mob": "monster",
-        "type": "monster",
-        "maxcount": {
-          "amount": 10,
-          "perchunk": true
-        },
-        "result": "deny"
-      }
-    ]
-  }
+    "dimension": "minecraft:overworld",
+    "mob": ["minecraft:zombie","minecraft:bat","minecraft:zombie_villager", "minecraft:skeleton", "minecraft:spider", "minecraft:creeper", "minecraft:enderman", "minecraft:witch", "minecraft:phantom", "minecraft:drowned", "minecraft:husk", "minecraft:stray", "minecraft:pillager", "minecraft:vindicator", "minecraft:evoker", "minecraft:ravager", "minecraft:vex", "minecraft:guardian", "minecraft:elder_guardian", "minecraft:shulker", "minecraft:silverfish", "minecraft:blaze", "minecraft:ghast", "minecraft:magma_cube", "minecraft:slime", "minecraft:witch"],
+    "mincount": {
+      "amount": 100,
+      "hostile": true,
+      "perplayer": true
+    },
+    "result": "deny"
+    }
+
 ]
