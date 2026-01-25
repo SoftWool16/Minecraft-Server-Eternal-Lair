@@ -205,6 +205,13 @@
 * * WhatIsLove-forge-1.20.1-1.0
 
 * incontrol-1.20-9.4.6 - контроль мира (в частности спавна мобов)
+* 
+## 16 пак
+* удалены (все SCP)
+* * PossessiveMask-forge-1.20.1-1.8
+* entityculling-forge-1.9.5-mc1.20.1
+* canary-mc1.20.1-0.3.3
+
 
 
 /config/incontrol/spawn.json - ограничения спавна
