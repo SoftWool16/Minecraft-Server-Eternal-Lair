@@ -27,7 +27,7 @@
 * * createtaczauto-1.5.1-forge-1.20.1 - автоматическое создание патронов в create 
 * emi-1.1.22+1.20.1+forge - информация о крафтах
 * * emi_create_schematics-1.0.4 - продуманая схеманика с информацей о крафтах 
-### 5 пак
+## 5 пак
 
 * supermartijn642configlib-1.1.8-forge-mc1.20
 * appleskin-forge-mc1.20.1-2.5.1 - показывает еду
@@ -212,6 +212,13 @@
 * entityculling-forge-1.9.5-mc1.20.1
 * canary-mc1.20.1-0.3.3
 
+## 17 пак
+* удалены (все SCP)
+* * canary-mc1.20.1-0.3.3
+* * MalO-forge-1.20.1-1.0
+* AttributeFix-Forge-1.20.1-21.0.4 - правка максимальной брони
+* armorpointspp-forge-1.20-3.1.1 - адекватное отображение единиц хп и брони
 
 
 /config/incontrol/spawn.json - ограничения спавна
+/config/attributefix.json - поднятия лимитов

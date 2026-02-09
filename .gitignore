@@ -16,6 +16,8 @@
 !/config/incontrol/**
 !/config/jei/
 !/config/jei/blacklist.cfg
+!/config/attributefix.json
+
 
 # �� ������������ ��� .gitignore
 !.gitignore
