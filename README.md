@@ -10,7 +10,6 @@
 - Выживание с модом **Create**
 - Жуткие мобы и боссы
 - Уникальные расы и новые чары
-- Backup мира каждый день
 - Обновление мира с сохранением баз
 
 
@@ -21,8 +20,8 @@
 - [Группа TG](https://t.me/+ghZEINJge5M5YWMy)
 - [Группа MAX](https://max.ru/join/tveZ-sB1fNRq1VRcRGyNU4CZihjUYeTU9A1QFVRq9qI)
 ---
-![Фото с окончания прошлого сезона](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/imgReadme/prev_end.png)
+![Фото с окончания прошлого сезона -none-](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/imgReadme/prev_end.png)
 
-![Фото со спавна](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/imgReadme/spavn.png)
+![Фото со спавна -none-](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/imgReadme/spavn.png)
 
-![Фото со старта](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/imgReadme/start.png)
+![Фото со старта -none-](https://github.com/SoftWool16/Minecraft-Server-Eternal-Lair/blob/main/imgReadme/start.png)

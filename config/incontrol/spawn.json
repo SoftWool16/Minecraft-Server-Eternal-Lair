@@ -1,14 +1,2 @@
 
-[
-    {
-    "dimension": "minecraft:overworld",
-    "mob": ["minecraft:zombie","minecraft:zombie_villager", "minecraft:skeleton", "minecraft:spider", "minecraft:creeper", "minecraft:enderman", "minecraft:witch", "minecraft:phantom", "minecraft:drowned", "minecraft:husk", "minecraft:stray", "minecraft:pillager", "minecraft:vindicator", "minecraft:evoker", "minecraft:ravager", "minecraft:vex", "minecraft:guardian", "minecraft:elder_guardian", "minecraft:shulker", "minecraft:silverfish", "minecraft:blaze", "minecraft:ghast", "minecraft:magma_cube", "minecraft:slime", "minecraft:witch"],
-    "mincount": {
-      "amount": 42,
-      "hostile": true,
-      "perplayer": true
-    },
-    "result": "deny"
-    }
-
-]
+[ ]
