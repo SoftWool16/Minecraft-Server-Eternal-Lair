@@ -218,7 +218,10 @@
 * * MalO-forge-1.20.1-1.0
 * AttributeFix-Forge-1.20.1-21.0.4 - правка максимальной брони
 * armorpointspp-forge-1.20-3.1.1 - адекватное отображение единиц хп и брони
-
+## 18 пак 
+* удалены
+* * RootsClassic-1.20.1-1.4.2 - немного магии
+* 
 
 /config/incontrol/spawn.json - ограничения спавна
 /config/attributefix.json - поднятия лимитов
