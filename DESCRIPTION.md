@@ -221,7 +221,35 @@
 ## 18 пак 
 * удалены
 * * RootsClassic-1.20.1-1.4.2 - немного магии
-* 
+* * elementals_powers-1.0.0-forge-1.20.1 - стихия
+* WaystonesTeleportPets-1.20-1.20.1--1.2 - тп животных по камню
+* AmbientSounds_FORGE_v6.3.8_mc1.20.1 - звуки
+* * CreativeCore_FORGE_v2.12.39_mc1.20.1
+* TheDayoftheBeast-1.20.1-2.0 - опасные данжи
+* itb-1.1.0 - заглядывать в блок
+* Structory_1.20.x_v1.3.5 - стрктуры по всему миру
+* create_structures_arise-176.49.48%20Forge%201.20.1 - структуры с механизмами
+* weather2-1.20.1-2.8.3 - погодные катаклизмы
+* * coroutil-forge-1.20.1-1.3.7
+# 19 пак
+* удалены
+* * GateGuardian-forge-1.20.1-1.0.jar
+* * HardToDestroyReptile-forge-1.20.1-2.1.jar
+* * StarvingSkeleton-forge-1.20.1-1.5.jar
+* * ThePrototype-forge-1.20.1-1.0.jar
+* гигантские структуры
+* * giant_cactus-1.0.1-forge-1.20.1
+* * giant_tree_stump-1.0.1-forge-1.20.1
+* * giant_bamboo-1.0.0-forge-1.20.1
+* * giant_cherry_trees-1.0.0-forge-1.20.1
+* * giant_jungle_tree-1.0.0-forge-1.20.1
+* * giant_lily_pads-1.0.0-forge-1.20.1
+* * giant_oak_tree-1.0.0-forge-1.20.1
+* * giant_pine_tree-1.0.0-forge-1.20.1
+* * giant_swamp_tree-1.0.1-forge-1.20.1
+* прокачка персонажей
+* * default_skill_trees-1.1
+* * puffish_skills-0.18.3-1.20-forge
 
 /config/incontrol/spawn.json - ограничения спавна
 /config/attributefix.json - поднятия лимитов
