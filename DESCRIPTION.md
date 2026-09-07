@@ -250,6 +250,11 @@
 * прокачка персонажей
 * * default_skill_trees-1.1
 * * puffish_skills-0.18.3-1.20-forge
+# 20 пак 
+* удалены
+* * default_skill_trees-1.1.jar
+* Stronger%20Skill%20Tree - прокачка персонажа
+
 
 /config/incontrol/spawn.json - ограничения спавна
 /config/attributefix.json - поднятия лимитов
